@@ -2,12 +2,12 @@ body{
     display:flex;
     flex-direction: column;
     align-items: center;
+    background-color: grey;
 }
 
 .grid-container{
     display: grid;
     justify-content: center;
-    gap: 5px;
 }
 
 .grid-cell{
